@@ -1,1 +1,3 @@
-# dsc148-final-project
+# UCSD HSDI DSC148 Final Prject
+
+## NBA Shot Prediction
